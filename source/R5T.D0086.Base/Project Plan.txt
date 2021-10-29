@@ -1,0 +1,3 @@
+R5T.D0086.Base - Service definitions for IConfigurationConfigurer service.
+
+GOALS:

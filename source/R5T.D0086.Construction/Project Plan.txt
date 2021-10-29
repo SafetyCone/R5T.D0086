@@ -1,0 +1,3 @@
+R5T.D0086.Construction - Construction project for IConfigurationConfigurer service..
+
+GOALS:
